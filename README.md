@@ -2,7 +2,7 @@
 
 | **Proyecto** | **Versión**  |  **Autor**  |
 |--------------|--------------|-------------|
-|Hola Mundo    |1.0.0         |}Dilan Zúniga|
+|Hola Mundo    |1.0.0         |Dilan Zúniga|
 
 
 
