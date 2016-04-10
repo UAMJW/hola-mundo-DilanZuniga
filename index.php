@@ -5,5 +5,5 @@
  </head>                                <!--Llave de cierre para título de página-->
  <body>                                 <!--Llave de apertura para el cuerpo de la página-->
  <?php echo '<p>Hola Mundo</p>'; ?>     <!--impresión en pantalla de Hola mundo-->
- </body>                                <!--Llave de apertura para el cuerpo de la página--->
+ </body>                                <!--Llave de apertura para el cuerpo de la página-->
 </html>
