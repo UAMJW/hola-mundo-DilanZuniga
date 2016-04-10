@@ -8,7 +8,7 @@
 
 ## Descripción
 
-Proyecto creado en Node.js para imprimir en pantalla el mensaje "Hola Mundo!".
+Proyecto creado en PHP para imprimir en pantalla el mensaje "Hola Mundo!".
 
 ## Lenguaje
 
